@@ -1,1 +1,9 @@
-
+{
+  "redirects": [
+    {
+      "source": "/",
+      "destination": "https://www.google.com/maps/search/?api=1&query=Rua+Alfonso+Osvaldo+Grellmann,+568,+Pinheirinho,+Curitiba,+PR,+81880-080",
+      "permanent": false
+    }
+  ]
+}
